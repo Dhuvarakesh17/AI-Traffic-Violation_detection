@@ -1,3 +1,4 @@
 print("Hello World")
-for i in range(5):
+list1=['lion1','lion2','lion3']
+for i in list1:
   print(i)
